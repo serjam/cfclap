@@ -1,5 +1,7 @@
 # CFCLAP
 ### Internal Crossfire Hack
+![Hack Screenshot](./ss.jpg)
+
 Demo Video: https://vimeo.com/541375184
 ## Features
 - Ingame Menu (CAPS)
