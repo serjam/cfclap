@@ -1,4 +1,4 @@
-# CFCLAP
+# CFClap
 ### Internal Crossfire Hack
 ![Hack Screenshot](./ss.jpg)
 
